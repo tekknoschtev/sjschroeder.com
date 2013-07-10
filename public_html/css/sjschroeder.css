@@ -1,0 +1,58 @@
+.brand {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    text-align: center;
+}
+.navbar-inverse .navbar-inner {
+    background-color: #6D997A;
+    border: none;
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav>li>a {
+    color: white;
+}
+
+.navbar .nav>.active>a, .navbar .nav>.active>a:hover {
+    background-color: #C2CBCE;
+    color: #333;
+}
+
+.social {
+    padding: 5px;
+    color: white;
+}
+
+.social>a:hover {
+    color:lightgray;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.navbar-inverse, navbar-inner {
+    color: white;
+    margin: 0;
+}
+.section {
+    width: 100%;
+}
+
+#first {
+    background-color: #C2CBCE;
+}
+
+#second {
+    background-color: #EDEDF4;
+}
+
+#footer {
+    background-color: #94BA65;
+    padding: 5px;
+    color: white;
+}
